@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+
 import java.util.*;
 public class ArrayList1 {
     public static void main(String[] args) {
@@ -8,7 +8,9 @@ public class ArrayList1 {
         System.out.println("Enter a number: ");
         int a = sc.nextInt();
         System.out.println(a); 
+        sc.close();
     }
 }
+
 
 
